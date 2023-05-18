@@ -1,0 +1,42 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/danus/Documents/NetBeansProjects/Calculadora/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/danus/Documents/NetBeansProjects/Calculadora/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Calculadora 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Calculadora 1.0-SNAPSHOT API'
+com.sofkau.calculadora
+C:\Users\danus\Documents\NetBeansProjects\Calculadora\src\main\java = 1684347650636
+C:\Users\danus\Documents\NetBeansProjects\Calculadora\target\site\apidocs\allclasses-index.html = 1684348119536
+C:\Users\danus\Documents\NetBeansProjects\Calculadora\target\site\apidocs\allpackages-index.html = 1684348119540
+C:\Users\danus\Documents\NetBeansProjects\Calculadora\target\site\apidocs\element-list = 1684348119462
+C:\Users\danus\Documents\NetBeansProjects\Calculadora\target\site\apidocs\help-doc.html = 1684348119588
+C:\Users\danus\Documents\NetBeansProjects\Calculadora\target\site\apidocs\index-all.html = 1684348119564
+C:\Users\danus\Documents\NetBeansProjects\Calculadora\target\site\apidocs\index.html = 1684348119567
+C:\Users\danus\Documents\NetBeansProjects\Calculadora\target\site\apidocs\jquery-ui.overrides.css = 1684348119612
+C:\Users\danus\Documents\NetBeansProjects\Calculadora\target\site\apidocs\member-search-index.js = 1684348119548
+C:\Users\danus\Documents\NetBeansProjects\Calculadora\target\site\apidocs\module-search-index.js = 1684348119542
+C:\Users\danus\Documents\NetBeansProjects\Calculadora\target\site\apidocs\overview-tree.html = 1684348119516
+C:\Users\danus\Documents\NetBeansProjects\Calculadora\target\site\apidocs\package-search-index.js = 1684348119544
+C:\Users\danus\Documents\NetBeansProjects\Calculadora\target\site\apidocs\script.js = 1684348119593
+C:\Users\danus\Documents\NetBeansProjects\Calculadora\target\site\apidocs\search.js = 1684348119596
+C:\Users\danus\Documents\NetBeansProjects\Calculadora\target\site\apidocs\stylesheet.css = 1684348119592
+C:\Users\danus\Documents\NetBeansProjects\Calculadora\target\site\apidocs\tag-search-index.js = 1684348119549
+C:\Users\danus\Documents\NetBeansProjects\Calculadora\target\site\apidocs\type-search-index.js = 1684348119546

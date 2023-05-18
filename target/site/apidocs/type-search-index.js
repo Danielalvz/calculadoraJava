@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.sofkau.calculadora","l":"Calculadora"},{"p":"com.sofkau.calculadora","l":"Funciones"}];updateSearchResults();
